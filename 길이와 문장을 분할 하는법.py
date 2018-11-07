@@ -1,0 +1,5 @@
+n=input().split()
+print(n)
+b=':'.join(n[0])
+print(b)
+print(b.long())
